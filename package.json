@@ -1,0 +1,26 @@
+{
+  "name": "12-sql-challenge-employee-tracker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SamMarch/12-SQL-Challenge-Employee-Tracker.git"
+  },
+  "keywords": [],
+  "author": "Sam March",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SamMarch/12-SQL-Challenge-Employee-Tracker/issues"
+  },
+  "homepage": "https://github.com/SamMarch/12-SQL-Challenge-Employee-Tracker#readme",
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "cfonts": "3.1.1",
+    "inquirer": "^7.3.3",
+    "mysql": "^2.18.1"
+  }
+}
